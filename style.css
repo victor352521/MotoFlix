@@ -1,11 +1,19 @@
 body {
-    background-color: yellow;
-    color: black;
+    background-color: orange;
+    color: whitesmoke;
     margin: 0px;
 }
 
 header {
     padding: 20px;
-    background-color: red;
-    b
+    background-color: black;
+    font-size: 32px;
+    border-bottom: 2px solid orange;
+    color: orange;
+}
+
+section {
+    background: black;
+    padding-top: 80px;
+    padding-bottom: 80px;
 }
